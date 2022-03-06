@@ -1,0 +1,13 @@
+{
+    "parserOptions": {
+        "emcaVersion": 2020,
+        "sourceType": "module",
+        "emcaFeatures": {
+            "jsx": true
+        }
+    },
+    "plugins": ["react-hooks"],
+    "rules": {
+        "react-hooks/rules-of-hooks": "error"
+    }
+}
